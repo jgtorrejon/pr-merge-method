@@ -1,6 +1,6 @@
 const App = () => {
   const constructor = title => {
-    return `<title>The title of pr-4 is ${title}<title/>`
+    return `<title>The title of pr-5 is ${title}<title/>`
   }
 }
 
